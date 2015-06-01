@@ -1,4 +1,4 @@
-package com.otomato.jenkins-example;
+package com.otomato.jenkins.example;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

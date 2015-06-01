@@ -1,4 +1,4 @@
-package com.otomato.jenkins-example;
+package com.otomato.jenkins.example;
 
 /**
  * Hello world!
